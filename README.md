@@ -1,1 +1,1 @@
-# Employee-Salary-Prediction-Md-Waleedul-Haque
+# Employee Salary Prediction
