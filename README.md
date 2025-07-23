@@ -46,10 +46,10 @@ Model Persistence: Joblib
 Follow these steps to set up the project on your local machine.
 
 1. Clone the Repository
-git clone https://github.com/YourUsername/YourProjectRepository.git
-cd YourProjectRepository
+git clone https://github.com/waleedul3/Employee-Salary-Prediction-Md-Waleedul-Haque.git
+cd Employee-Salary-Prediction-Md-Waleedul-Haque
 
-2. Create a Virtual Environment (Recommended)
+3. Create a Virtual Environment (Recommended)
 It's highly recommended to create a virtual environment to manage project dependencies.
 
 # For Windows
