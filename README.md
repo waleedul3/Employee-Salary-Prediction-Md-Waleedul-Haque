@@ -94,3 +94,4 @@ Automated Retraining: Set up a CI/CD pipeline for automatic model retraining.
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+https://github.com/waleedul3/Employee-Salary-Prediction-Md-Waleedul-Haque/blob/0ee54528a96becc9030080ffa18e2c089f0b557a/LICENSE
